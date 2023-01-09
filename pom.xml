@@ -7,7 +7,7 @@
 <<<<<<< HEAD
   <version>10.2-SNAPSHOT</version>
 =======
-  <version>1.6 Release</version>
+  <version>1.7 Release</version>
 >>>>>>> 6e99cb645f94a97a18df1dd2f34f9799901bbfbf
 
   <packaging>war</packaging>
