@@ -5,7 +5,7 @@
   <groupId>com.src</groupId>
   <artifactId>teavm-maven-webapp</artifactId>
 <<<<<<< HEAD
-  <version>10.2-SNAPSHOT</version>
+  <version>10.3-SNAPSHOT</version>
 =======
   <version>1.8 Release</version>
 >>>>>>> 6e99cb645f94a97a18df1dd2f34f9799901bbfbf
